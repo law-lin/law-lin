@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there!</h3>
 <p align="center">
   <a href="https://lawrencelin.me/">Website</a> •
-  <a href="https://www.linkedin.com/in/lawrencelin101/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/lawrencelin101/">LinkedIn</a>
 </p>
 
 ---
