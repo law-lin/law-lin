@@ -9,9 +9,9 @@
 I'm Lawrence, a full stack developer who enjoys building social/productivty apps for web and mobile.
 
 - 🔭 I’m currently working on:
-  - A friendmaking mobile app using React Native and Firebase
+  - A friendmaking mobile app using React Native + Firebase
   - A course-based Q&A platform for colleges, using React + Supabase
-  - A social productivity mobile app using React Native + Supabase (on hold)
+  - A social productivity mobile app using React Native + Supabase
 - 🌱 I’m currently learning about microservices, Docker, Kubernetes, and cloud computing
 - 💬 Ask me about: React, Firebase, Supabase, Web Development 
 
