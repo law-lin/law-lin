@@ -6,7 +6,7 @@
 
 ---
 
-I'm Lawrence, a full stack developer who enjoys building social/productivity apps for web and mobile.
+I'm Lawrence, a developer who enjoys building social/productivity apps for web and mobile.
 
 - 🔭 I’m currently working on:
   - A friendmaking mobile app using React Native + Firebase
