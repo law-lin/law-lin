@@ -14,7 +14,7 @@ I'm Lawrence, a developer who enjoys building social/productivity apps for web a
   - A social productivity mobile app using React Native + Supabase
   - An ambitious game rating/review site using Next.js + Supabase
 - 🌱 I’m currently learning about Next.js, microservices, cloud computing,
-- 💬 Ask me about: React, Firebase, Supabase, Web Development 
+- 💬 Ask me about: React, Firebase, Supabase, web development, frontend stuff
 
 <!--
 **law-lin/law-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
