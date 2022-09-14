@@ -6,14 +6,9 @@
 
 ---
 
-I'm Lawrence, a developer who enjoys building social/productivity apps for web and mobile.
+I'm Lawrence, a developer who enjoys building consumer apps for web and mobile.
 
-- 🔭 I’m currently working on:
-  - A friendmaking mobile app using React Native + Firebase
-  - A course-based Q&A platform for colleges, using React + Supabase
-  - A social productivity mobile app using React Native + Supabase
-  - An ambitious game rating/review site using Next.js + Supabase
-- 🌱 I’m currently learning about Next.js, microservices, cloud computing,
+- 🌱 I’m currently learning about Next.js and tRPC
 - 💬 Ask me about: React, Firebase, Supabase, web development, frontend stuff
 
 <!--
