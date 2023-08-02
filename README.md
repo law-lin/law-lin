@@ -8,8 +8,8 @@
 
 I'm Lawrence, a developer who enjoys building consumer apps for web and mobile.
 
-- 🌱 I’m currently learning about Next.js and tRPC
-- 💬 Ask me about: React, Firebase, Supabase, web development, frontend stuff
+- 🌱 I’m currently learning about Next.js
+- 💬 Ask me about: React/React Native, Firebase, Supabase, web development, frontend stuff
 
 <!--
 **law-lin/law-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
