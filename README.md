@@ -6,7 +6,7 @@
 
 ---
 
-I'm Lawrence, a developer who enjoys building consumer apps for web and mobile.
+I'm Lawrence, a developer who enjoys building apps, tools, and experiences that feel simple and are genuinely useful.
 
 <!--
 **law-lin/law-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
